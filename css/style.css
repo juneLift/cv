@@ -24,7 +24,7 @@ body{
     color: #CD0404;
 }
 
-#logo, #icone-entete, #navbarScroll, #members, #pied {
+#logo, #navbarScroll, #members, #pied {
     text-align: center;
 }
 
@@ -70,7 +70,7 @@ body{
     text-align: center;
 }
 #texte{
-    margin: 12% auto;
+    margin: auto;
     width: 50%;
 }
 
