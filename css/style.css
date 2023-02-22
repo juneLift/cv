@@ -24,12 +24,8 @@ body{
     color: #CD0404;
 }
 
-#logo, #navbarScroll, #members, #pied {
+#logo, #navbarScroll, #members, #pied, #icone-entete {
     text-align: center;
-}
-
-#icone-entete{
-    margin: auto;
 }
 
 #logo-amcs:hover{
@@ -130,7 +126,7 @@ body{
 #partenaires{
     background-color: #E6DDC4;
     text-align: center;
-    margin: 2% 0œ 0;
+    margin: 2% 0 0;
     padding: 2%;
 }
 
